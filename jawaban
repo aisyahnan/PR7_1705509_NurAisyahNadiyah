@@ -1,0 +1,6 @@
+NIM		: 1705509
+Nama	: Nur Aisyah Nadiyah
+
+Left Join	: menghubungkan tabel dan menampilkan semua data pada tabel yang mempunyai nilai yang berhubungan maupun tidak berhubungan pada sebelah kiri, sedangkan data yang kosong akan bernilai NULL.
+Right Join	: menghubungkan tabel dan menampilkan semua data pada tabel yang mempunyai nilai yang berhubungan maupun tidak berhubungan pada sebelah kanan, sedangkan data yang kosong akan bernilai NULL.
+Inner Join	: menghubungkan tabel dan menampilkan semua data yang mempunyai nilai dan berhubungan (data yang tidak berhubungan antar tabel tidak ditampilkan)
