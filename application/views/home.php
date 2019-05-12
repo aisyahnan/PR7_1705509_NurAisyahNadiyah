@@ -14,7 +14,7 @@
 </head>
 <body>
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
-        <a class="navbar-brand" href="<?php echo site_url("CForm/index") ?>">Kereta Join</a>
+        <a class="navbar-brand" href="<?php echo site_url("CForm/index") ?>">Kereta Join CI</a>
     </nav>
     
     <div class="container-fluid" style="margin-top: 80px;">
